@@ -1,0 +1,737 @@
+[
+  {
+    "PK": 1,
+    "Name of the province": "Achaea",
+    "Creation date": "HE",
+    "Status around 400AD": "PCOS",
+    "Diocese": 13
+  },
+  {
+    "PK": 2,
+    "Name of the province": "Africa Proconsularis",
+    "Creation date": "HE",
+    "Status around 400AD": "PCOS",
+    "Diocese": 13
+  },
+  {
+    "PK": 3,
+    "Name of the province": "Cottian Alps",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 6
+  },
+  {
+    "PK": 4,
+    "Name of the province": "Pennine Alps",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 3
+  },
+  {
+    "PK": 5,
+    "Name of the province": "Alpes Maritimae",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 1
+  },
+  {
+    "PK": 6,
+    "Name of the province": "Apulia",
+    "Creation date": "D",
+    "Status around 400AD": "COR",
+    "Diocese": 6
+  },
+  {
+    "PK": 7,
+    "Name of the province": "Aquitanica prima",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 1
+  },
+  {
+    "PK": 8,
+    "Name of the province": "Aquitanica seconda",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 1
+  },
+  {
+    "PK": 9,
+    "Name of the province": "Arabia Petraea",
+    "Creation date": "HE",
+    "Status around 400AD": "MIL",
+    "Diocese": 12
+  },
+  {
+    "PK": 10,
+    "Name of the province": "Thebaid",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 11,
+    "Name of the province": "Armenia",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 11
+  },
+  {
+    "PK": 12,
+    "Name of the province": "Asia",
+    "Creation date": "HE",
+    "Status around 400AD": "PCOS",
+    "Diocese": 13
+  },
+  {
+    "PK": 13,
+    "Name of the province": "Augustamnica",
+    "Creation date": "D",
+    "Status around 400AD": "COR",
+    "Diocese": 12
+  },
+  {
+    "PK": 14,
+    "Name of the province": "Balearic",
+    "Creation date": "Fin du IVe siècle",
+    "Status around 400AD": "PRA",
+    "Diocese": 4
+  },
+  {
+    "PK": 15,
+    "Name of the province": "Belgium I",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 3
+  },
+  {
+    "PK": 16,
+    "Name of the province": "Belgium II",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 3
+  },
+  {
+    "PK": 17,
+    "Name of the province": "Hispania Baetica",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 4
+  },
+  {
+    "PK": 18,
+    "Name of the province": "Bithynia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 11
+  },
+  {
+    "PK": 19,
+    "Name of the province": "Roman Britain I",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 2
+  },
+  {
+    "PK": 20,
+    "Name of the province": "Roman Britain II",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 2
+  },
+  {
+    "PK": 21,
+    "Name of the province": "Byzacena",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 5
+  },
+  {
+    "PK": 22,
+    "Name of the province": "Campania",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 6
+  },
+  {
+    "PK": 23,
+    "Name of the province": "Cappadocia I",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 11
+  },
+  {
+    "PK": 24,
+    "Name of the province": "Cappadocia II",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 11
+  },
+  {
+    "PK": 25,
+    "Name of the province": "Caria",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 26,
+    "Name of the province": "Hispania Carthaginensis",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 4
+  },
+  {
+    "PK": 27,
+    "Name of the province": "Cyprus",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 12
+  },
+  {
+    "PK": 28,
+    "Name of the province": "Cilicia I",
+    "Creation date": "C",
+    "Status around 400AD": "COS",
+    "Diocese": 12
+  },
+  {
+    "PK": 29,
+    "Name of the province": "Cilicia II",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 30,
+    "Name of the province": "Corsica",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 6
+  },
+  {
+    "PK": 31,
+    "Name of the province": "Crete",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 8
+  },
+  {
+    "PK": 32,
+    "Name of the province": "Dacia",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 33,
+    "Name of the province": "Dacia II",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 9
+  },
+  {
+    "PK": 34,
+    "Name of the province": "Dalmatia",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 35,
+    "Name of the province": "Dardania",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 37,
+    "Name of the province": "Egypt",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 39,
+    "Name of the province": "Emilia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 6
+  },
+  {
+    "PK": 40,
+    "Name of the province": "Old Epirus",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 8
+  },
+  {
+    "PK": 41,
+    "Name of the province": "New Epirus",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 8
+  },
+  {
+    "PK": 42,
+    "Name of the province": "Euphratensis",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 43,
+    "Name of the province": "Europa",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 9
+  },
+  {
+    "PK": 44,
+    "Name of the province": "Flavia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 6
+  },
+  {
+    "PK": 45,
+    "Name of the province": "Flavia Caesariensis",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 2
+  },
+  {
+    "PK": 46,
+    "Name of the province": "Galatia",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 11
+  },
+  {
+    "PK": 47,
+    "Name of the province": "Galatia II",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 11
+  },
+  {
+    "PK": 48,
+    "Name of the province": "Galicia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 5
+  },
+  {
+    "PK": 49,
+    "Name of the province": "Germania I",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 3
+  },
+  {
+    "PK": 50,
+    "Name of the province": "Germania II",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 3
+  },
+  {
+    "PK": 51,
+    "Name of the province": "Dardanelles",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 10
+  },
+  {
+    "PK": 52,
+    "Name of the province": "Island",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 53,
+    "Name of the province": "Isauria",
+    "Creation date": "D",
+    "Status around 400AD": "MIL",
+    "Diocese": 12
+  },
+  {
+    "PK": 54,
+    "Name of the province": "Libya II",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 55,
+    "Name of the province": "Libya II",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 56,
+    "Name of the province": "Liguria",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 6
+  },
+  {
+    "PK": 57,
+    "Name of the province": "Lucania",
+    "Creation date": "D",
+    "Status around 400AD": "COR",
+    "Diocese": 6
+  },
+  {
+    "PK": 58,
+    "Name of the province": "Lusitania",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 4
+  },
+  {
+    "PK": 59,
+    "Name of the province": "Lycaonia",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 60,
+    "Name of the province": "Lycia",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 61,
+    "Name of the province": "Lydia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 10
+  },
+  {
+    "PK": 62,
+    "Name of the province": "Macedonia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 9
+  },
+  {
+    "PK": 63,
+    "Name of the province": "Mauretania Caesariensis",
+    "Creation date": "HE",
+    "Status around 400AD": "MIL",
+    "Diocese": 5
+  },
+  {
+    "PK": 64,
+    "Name of the province": "Mauretania Tingitana",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 4
+  },
+  {
+    "PK": 65,
+    "Name of the province": "Maxima Caesariensis",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 2
+  },
+  {
+    "PK": 66,
+    "Name of the province": "Maxima Sequanorum",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 3
+  },
+  {
+    "PK": 67,
+    "Name of the province": "Moesia I",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 68,
+    "Name of the province": "Moesia II",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 69,
+    "Name of the province": "Mesopotamia",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 70,
+    "Name of the province": "Noricum",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 7
+  },
+  {
+    "PK": 71,
+    "Name of the province": "Noricum II",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 7
+  },
+  {
+    "PK": 72,
+    "Name of the province": "Novempopulania",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 1
+  },
+  {
+    "PK": 73,
+    "Name of the province": "Numidia",
+    "Creation date": "C",
+    "Status around 400AD": "COS",
+    "Diocese": 5
+  },
+  {
+    "PK": 74,
+    "Name of the province": "Osroene",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 75,
+    "Name of the province": "Palestine I",
+    "Creation date": "C",
+    "Status around 400AD": "COS",
+    "Diocese": 12
+  },
+  {
+    "PK": 76,
+    "Name of the province": "Palestine II",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 77,
+    "Name of the province": "Palestine III",
+    "Creation date": "C",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 78,
+    "Name of the province": "Pamphylia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 10
+  },
+  {
+    "PK": 79,
+    "Name of the province": "Pannonia I",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 7
+  },
+  {
+    "PK": 80,
+    "Name of the province": "Pannonia II",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 7
+  },
+  {
+    "PK": 81,
+    "Name of the province": "Pannonia Savia",
+    "Creation date": "D",
+    "Status around 400AD": "COR",
+    "Diocese": 7
+  },
+  {
+    "PK": 82,
+    "Name of the province": "Pannonia Valeria",
+    "Creation date": "D",
+    "Status around 400AD": "MIL",
+    "Diocese": 7
+  },
+  {
+    "PK": 83,
+    "Name of the province": "Paphlagonia",
+    "Creation date": "D",
+    "Status around 400AD": "COR",
+    "Diocese": 10
+  },
+  {
+    "PK": 84,
+    "Name of the province": "Phoenicia",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 12
+  },
+  {
+    "PK": 85,
+    "Name of the province": "Phoenice",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 86,
+    "Name of the province": "Phrygia I",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 87,
+    "Name of the province": "Phrygia II",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 88,
+    "Name of the province": "Phrygie pacatienne",
+    "Creation date": "IVe siècle",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 89,
+    "Name of the province": "Picenum",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 6
+  },
+  {
+    "PK": 90,
+    "Name of the province": "Pisidia",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 10
+  },
+  {
+    "PK": 91,
+    "Name of the province": "Praevalitana",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 11
+  },
+  {
+    "PK": 92,
+    "Name of the province": "Prévalitane",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 93,
+    "Name of the province": "Raetia I",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 6
+  },
+  {
+    "PK": 94,
+    "Name of the province": "Raetia II",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 6
+  },
+  {
+    "PK": 95,
+    "Name of the province": "Rhodope",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 96,
+    "Name of the province": "Samnium",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 6
+  },
+  {
+    "PK": 97,
+    "Name of the province": "Sardinia",
+    "Creation date": "HE",
+    "Status around 400AD": "PRA",
+    "Diocese": 6
+  },
+  {
+    "PK": 98,
+    "Name of the province": "Scythia Minor",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 9
+  },
+  {
+    "PK": 99,
+    "Name of the province": "Sicily",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 6
+  },
+  {
+    "PK": 100,
+    "Name of the province": "Roman Syria",
+    "Creation date": "HE",
+    "Status around 400AD": "COS",
+    "Diocese": 12
+  },
+  {
+    "PK": 101,
+    "Name of the province": "Hispania Tarraconensis",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 4
+  },
+  {
+    "PK": 102,
+    "Name of the province": "Thebaid",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 12
+  },
+  {
+    "PK": 103,
+    "Name of the province": "Thessaly",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 8
+  },
+  {
+    "PK": 104,
+    "Name of the province": "Tripolitania",
+    "Creation date": "D",
+    "Status around 400AD": "PRA",
+    "Diocese": 5
+  },
+  {
+    "PK": 105,
+    "Name of the province": "Valentia",
+    "Creation date": "IVe siècle",
+    "Status around 400AD": "PRA",
+    "Diocese": 6
+  },
+  {
+    "PK": 106,
+    "Name of the province": "Veneto",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 6
+  },
+  {
+    "PK": 107,
+    "Name of the province": "Viennensis I",
+    "Creation date": "D",
+    "Status around 400AD": "COS",
+    "Diocese": 1
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "PK": 1,
+    "Name": "Septem Provinciae",
+    "Fall (AD)": 477
+  },
+  {
+    "PK": 2,
+    "Name": "Roman Britain",
+    "Fall (AD)": 410
+  },
+  {
+    "PK": 3,
+    "Name": "Diocese of Gaul",
+    "Fall (AD)": 486
+  },
+  {
+    "PK": 4,
+    "Name": "Diocese of Hispania",
+    "Fall (AD)": 409
+  },
+  {
+    "PK": 5,
+    "Name": "Diocese of Africa",
+    "Fall (AD)": 439
+  },
+  {
+    "PK": 6,
+    "Name": "Roman Italy",
+    "Fall (AD)": ""
+  },
+  {
+    "PK": 7,
+    "Name": "Diocese of Pannonia",
+    "Fall (AD)": 440
+  },
+  {
+    "PK": 8,
+    "Name": "Diocese of Moesiae",
+    "Fall (AD)": 337
+  },
+  {
+    "PK": 9,
+    "Name": "Diocese of Thrace",
+    "Fall (AD)": 535
+  },
+  {
+    "PK": 10,
+    "Name": "Diocese of Asia",
+    "Fall (AD)": 535
+  },
+  {
+    "PK": 11,
+    "Name": "Diocese of Pontus",
+    "Fall (AD)": 535
+  },
+  {
+    "PK": 12,
+    "Name": "Diocese of the East",
+    "Fall (AD)": 536
+  },
+  {
+    "PK": 13,
+    "Name": "None",
+    "Fall (AD)": "nil"
+  }
+]

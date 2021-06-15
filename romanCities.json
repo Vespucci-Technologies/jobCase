@@ -1,0 +1,308 @@
+[
+  {
+    "City Name": "Kato Achaia",
+    "Population": 6880,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 1
+  },
+  {
+    "City Name": "Aigio",
+    "Population": 26523,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 1
+  },
+  {
+    "City Name": "Chalandritsa",
+    "Population": 1047,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 1
+  },
+  {
+    "City Name": "Patras",
+    "Population": 213984,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 1
+  },
+  {
+    "City Name": "Aroania",
+    "Population": 1619,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 1
+  },
+  {
+    "City Name": "Carthage",
+    "Population": 17010,
+    "Country": "🇹🇳Tunisia",
+    "Roman Province": 2
+  },
+  {
+    "City Name": "Zama",
+    "Population": 0,
+    "Country": "🇹🇳Tunisia",
+    "Roman Province": 2
+  },
+  {
+    "City Name": "Sousse",
+    "Population": 674971,
+    "Country": "🇹🇳Tunisia",
+    "Roman Province": 2
+  },
+  {
+    "City Name": "Annaba",
+    "Population": 257359,
+    "Country": "🇩🇿Algeria",
+    "Roman Province": 2
+  },
+  {
+    "City Name": "Abries",
+    "Population": 299,
+    "Country": "🇫🇷France",
+    "Roman Province": 3
+  },
+  {
+    "City Name": "Cesana Torinese",
+    "Population": 1040,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 3
+  },
+  {
+    "City Name": "Fenestrelle",
+    "Population": 571,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 3
+  },
+  {
+    "City Name": "Chaumont",
+    "Population": 931,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 3
+  },
+  {
+    "City Name": "Arolla",
+    "Population": 54,
+    "Country": "🇨🇭Switzerland",
+    "Roman Province": 4
+  },
+  {
+    "City Name": "Cemenelum",
+    "Population": 0,
+    "Country": "🇫🇷France",
+    "Roman Province": 5
+  },
+  {
+    "City Name": "Nice",
+    "Population": 942886,
+    "Country": "🇫🇷France",
+    "Roman Province": 5
+  },
+  {
+    "City Name": "Antibes",
+    "Population": 72915,
+    "Country": "🇫🇷France",
+    "Roman Province": 5
+  },
+  {
+    "City Name": "Castellane",
+    "Population": 1497,
+    "Country": "🇫🇷France",
+    "Roman Province": 5
+  },
+  {
+    "City Name": "Senes",
+    "Population": 165,
+    "Country": "🇫🇷France",
+    "Roman Province": 5
+  },
+  {
+    "City Name": "Vence",
+    "Population": 476,
+    "Country": "🇫🇷France",
+    "Roman Province": 5
+  },
+  {
+    "City Name": "Bari",
+    "Population": 326799,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 6
+  },
+  {
+    "City Name": "Taranto",
+    "Population": 198585,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 6
+  },
+  {
+    "City Name": "Foggia",
+    "Population": 150083,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 6
+  },
+  {
+    "City Name": "Bourges",
+    "Population": 64668,
+    "Country": "🇫🇷France",
+    "Roman Province": 7
+  },
+  {
+    "City Name": "Bordeaux",
+    "Population": 257068,
+    "Country": "🇫🇷France",
+    "Roman Province": 8
+  },
+  {
+    "City Name": "Aqaba",
+    "Population": 148398,
+    "Country": "🇯🇴Jordan",
+    "Roman Province": 9
+  },
+  {
+    "City Name": "Petra",
+    "Population": 0,
+    "Country": "🇯🇴Jordan",
+    "Roman Province": 9
+  },
+  {
+    "City Name": "Ptolemais Hermiou",
+    "Population": 0,
+    "Country": "🇪🇬Egypt",
+    "Roman Province": 10
+  },
+  {
+    "City Name": "Mampsis",
+    "Population": 0,
+    "Country": "🇮🇱Israel",
+    "Roman Province": 10
+  },
+  {
+    "City Name": "Artaxata",
+    "Population": 0,
+    "Country": "🇦🇲Armenia",
+    "Roman Province": 11
+  },
+  {
+    "City Name": "Ephesus",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 12
+  },
+  {
+    "City Name": "Memphis",
+    "Population": 0,
+    "Country": "🇪🇬Egypt",
+    "Roman Province": 13
+  },
+  {
+    "City Name": "Palma de Mallorca",
+    "Population": 409661,
+    "Country": "🇪🇸Spain",
+    "Roman Province": 14
+  },
+  {
+    "City Name": "Trier",
+    "Population": 111528,
+    "Country": "🇩🇪Germany",
+    "Roman Province": 15
+  },
+  {
+    "City Name": "Reims",
+    "Population": 182211,
+    "Country": "🇫🇷France",
+    "Roman Province": 16
+  },
+  {
+    "City Name": "Seville",
+    "Population": 1107000,
+    "Country": "🇪🇸Spain",
+    "Roman Province": 17
+  },
+  {
+    "City Name": "Nicomedia",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 18
+  },
+  {
+    "City Name": "Cirencester",
+    "Population": 19076,
+    "Country": "🇬🇧United Kingdom",
+    "Roman Province": 19
+  },
+  {
+    "City Name": "York",
+    "Population": 198051,
+    "Country": "🇬🇧United Kingdom",
+    "Roman Province": 20
+  },
+  {
+    "City Name": "Hadrumetum",
+    "Population": 0,
+    "Country": "🇹🇳Tunisia",
+    "Roman Province": 21
+  },
+  {
+    "City Name": "Naples",
+    "Population": 967068,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 22
+  },
+  {
+    "City Name": "Kayseri",
+    "Population": 1900000,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 23
+  },
+  {
+    "City Name": "Tyana",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 24
+  },
+  {
+    "City Name": "Halicarnassus",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 25
+  },
+  {
+    "City Name": "Cartagena",
+    "Population": 213943,
+    "Country": "🇪🇸Spain",
+    "Roman Province": 26
+  },
+  {
+    "City Name": "Paphos",
+    "Population": 90200,
+    "Country": "🇨🇾Cyprus",
+    "Roman Province": 27
+  },
+  {
+    "City Name": "Tarsus",
+    "Population": 346715,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 28
+  },
+  {
+    "City Name": "Anazarbus",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 29
+  },
+  {
+    "City Name": "Alzria",
+    "Population": 2166,
+    "Country": "🇫🇷France",
+    "Roman Province": 30
+  },
+  {
+    "City Name": "Gortyna",
+    "Population": 0,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 31
+  },
+  {
+    "City Name": "Ratiaria",
+    "Population": 0,
+    "Country": "🇧🇬Bulgaria",
+    "Roman Province": 32
+  }
+]
