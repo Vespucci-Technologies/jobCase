@@ -304,5 +304,449 @@
     "Population": 0,
     "Country": "🇧🇬Bulgaria",
     "Roman Province": 32
+  },
+  {
+    "City Name": "Sofia",
+    "Population": 1549465,
+    "Country": "🇧🇬Bulgaria",
+    "Roman Province": 33
+  },
+  {
+    "City Name": "Salona",
+    "Population": 0,
+    "Country": "🇭🇷Croatia",
+    "Roman Province": 34
+  },
+  {
+    "City Name": "Nis",
+    "Population": 183164,
+    "Country": "🇷🇸Serbia",
+    "Roman Province": 35
+  },
+  {
+    "City Name": "Alexandria",
+    "Population": 5200000,
+    "Country": "🇪🇬Egypt",
+    "Roman Province": 37
+  },
+  {
+    "City Name": "Modena",
+    "Population": 184732,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 39
+  },
+  {
+    "City Name": "Nicopolis",
+    "Population": 0,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 40
+  },
+  {
+    "City Name": "Durrës",
+    "Population": 175110,
+    "Country": "🇦🇱Albania",
+    "Roman Province": 41
+  },
+  {
+    "City Name": "Hierapolis",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 42
+  },
+  {
+    "City Name": "Heraclea",
+    "Population": 0,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 43
+  },
+  {
+    "City Name": "Ravenna",
+    "Population": 158784,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 44
+  },
+  {
+    "City Name": "Lindum Colonia",
+    "Population": 0,
+    "Country": "🇬🇧United Kingdom",
+    "Roman Province": 45
+  },
+  {
+    "City Name": "Ancyre?",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 46
+  },
+  {
+    "City Name": "Pessinus",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 47
+  },
+  {
+    "City Name": "Braga",
+    "Population": 192494,
+    "Country": "🇵🇹Portugal",
+    "Roman Province": 48
+  },
+  {
+    "City Name": "Mainz",
+    "Population": 218578,
+    "Country": "🇩🇪Germany",
+    "Roman Province": 49
+  },
+  {
+    "City Name": "Cologne",
+    "Population": 1087863,
+    "Country": "🇩🇪Germany",
+    "Roman Province": 50
+  },
+  {
+    "City Name": "Cyzicus",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 51
+  },
+  {
+    "City Name": "Rhodes",
+    "Population": 115490,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 52
+  },
+  {
+    "City Name": "Seleucia",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 53
+  },
+  {
+    "City Name": "Apollonia",
+    "Population": 0,
+    "Country": "🇱🇾Libya",
+    "Roman Province": 54
+  },
+  {
+    "City Name": "Mersa Matruh",
+    "Population": 140000,
+    "Country": "🇪🇬Egypt",
+    "Roman Province": 55
+  },
+  {
+    "City Name": "Milan",
+    "Population": 1399860,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 56
+  },
+  {
+    "City Name": "Cosenza",
+    "Population": 67563,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 57
+  },
+  {
+    "City Name": "Merida",
+    "Population": 59352,
+    "Country": "🇪🇸Spain",
+    "Roman Province": 58
+  },
+  {
+    "City Name": "Lycaonia",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 59
+  },
+  {
+    "City Name": "Myre",
+    "Population": 0,
+    "Country": "🇳🇴Norway",
+    "Roman Province": 60
+  },
+  {
+    "City Name": "Sardis",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 61
+  },
+  {
+    "City Name": "Thessaloniki",
+    "Population": 325182,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 62
+  },
+  {
+    "City Name": "Cherchell",
+    "Population": 34372,
+    "Country": "🇩🇿Algeria",
+    "Roman Province": 63
+  },
+  {
+    "City Name": "Tangier",
+    "Population": 947952,
+    "Country": "🇲🇦Morocco",
+    "Roman Province": 64
+  },
+  {
+    "City Name": "London",
+    "Population": 8961989,
+    "Country": "🇬🇧United Kingdom",
+    "Roman Province": 65
+  },
+  {
+    "City Name": "Besançon",
+    "Population": 116775,
+    "Country": "🇫🇷France",
+    "Roman Province": 66
+  },
+  {
+    "City Name": "Viminacium",
+    "Population": 0,
+    "Country": "🇷🇸Serbia",
+    "Roman Province": 67
+  },
+  {
+    "City Name": "Marcianopolis",
+    "Population": 0,
+    "Country": "🇧🇬Bulgaria",
+    "Roman Province": 68
+  },
+  {
+    "City Name": "Diyarbakır",
+    "Population": 1783431,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 69
+  },
+  {
+    "City Name": "Zollfeld",
+    "Population": 0,
+    "Country": "🇦🇹Austria",
+    "Roman Province": 70
+  },
+  {
+    "City Name": "Lauriacum",
+    "Population": 0,
+    "Country": "🇦🇹Austria",
+    "Roman Province": 71
+  },
+  {
+    "City Name": "Eauze",
+    "Population": 3942,
+    "Country": "🇫🇷France",
+    "Roman Province": 72
+  },
+  {
+    "City Name": "Cirta",
+    "Population": 0,
+    "Country": "🇩🇿Algeria",
+    "Roman Province": 73
+  },
+  {
+    "City Name": "Urfa",
+    "Population": 472238,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 74
+  },
+  {
+    "City Name": "Caesarea",
+    "Population": 4853,
+    "Country": "🇮🇱Israel",
+    "Roman Province": 75
+  },
+  {
+    "City Name": "Beit She'an",
+    "Population": 7330,
+    "Country": "🇮🇱Israel",
+    "Roman Province": 76
+  },
+  {
+    "City Name": "Petra",
+    "Population": 0,
+    "Country": "🇯🇴Jordan",
+    "Roman Province": 77
+  },
+  {
+    "City Name": "Perge",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 78
+  },
+  {
+    "City Name": "Szombathely",
+    "Population": 78025,
+    "Country": "🇭🇺Hungary",
+    "Roman Province": 79
+  },
+  {
+    "City Name": "Sirmium",
+    "Population": 0,
+    "Country": "🇷🇸Serbia",
+    "Roman Province": 80
+  },
+  {
+    "City Name": "Sisak",
+    "Population": 47768,
+    "Country": "🇭🇷Croatia",
+    "Roman Province": 81
+  },
+  {
+    "City Name": "Budapest",
+    "Population": 1752286,
+    "Country": "🇭🇺Hungary",
+    "Roman Province": 82
+  },
+  {
+    "City Name": "Çankırı",
+    "Population": 74192,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 83
+  },
+  {
+    "City Name": "Tyre",
+    "Population": 600000,
+    "Country": "🇱🇧Lebanon",
+    "Roman Province": 84
+  },
+  {
+    "City Name": "Damascus",
+    "Population": 2079000,
+    "Country": "🇸🇾Syria",
+    "Roman Province": 85
+  },
+  {
+    "City Name": "Laodicea",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 86
+  },
+  {
+    "City Name": "Şuhut",
+    "Population": 12547,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 87
+  },
+  {
+    "City Name": "Synnada",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 88
+  },
+  {
+    "City Name": "Ascoli Piceno",
+    "Population": 46846,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 89
+  },
+  {
+    "City Name": "Ascoli Satriano",
+    "Population": 6188,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 89
+  },
+  {
+    "City Name": "Antakya",
+    "Population": 213296,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 90
+  },
+  {
+    "City Name": "Niksar",
+    "Population": 90000,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 91
+  },
+  {
+    "City Name": "Shkodër",
+    "Population": 135612,
+    "Country": "🇦🇱Albania",
+    "Roman Province": 92
+  },
+  {
+    "City Name": "Grisons",
+    "Population": 199021,
+    "Country": "🇨🇭Switzerland",
+    "Roman Province": 93
+  },
+  {
+    "City Name": "Augsburg",
+    "Population": 295135,
+    "Country": "🇩🇪Germany",
+    "Roman Province": 94
+  },
+  {
+    "City Name": "Traianopolis",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 95
+  },
+  {
+    "City Name": "Aquilonia",
+    "Population": 0,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 96
+  },
+  {
+    "City Name": "Cagliari",
+    "Population": 154460,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 97
+  },
+  {
+    "City Name": "Constanța",
+    "Population": 317832,
+    "Country": "🇷🇴Romania",
+    "Roman Province": 98
+  },
+  {
+    "City Name": "Sicily",
+    "Population": 4969147,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 99
+  },
+  {
+    "City Name": "Antioch",
+    "Population": 0,
+    "Country": "🇹🇷Turkey",
+    "Roman Province": 100
+  },
+  {
+    "City Name": "Tarragona",
+    "Population": 132299,
+    "Country": "🇪🇸Spain",
+    "Roman Province": 101
+  },
+  {
+    "City Name": "Thebes",
+    "Population": 36477,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 102
+  },
+  {
+    "City Name": "Larissa",
+    "Population": 162591,
+    "Country": "🇬🇷Greece",
+    "Roman Province": 103
+  },
+  {
+    "City Name": "Leptis Magna",
+    "Population": 0,
+    "Country": "🇱🇾Libya",
+    "Roman Province": 104
+  },
+  {
+    "City Name": "Amiternum",
+    "Population": 0,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 105
+  },
+  {
+    "City Name": "Aquileia",
+    "Population": 0,
+    "Country": "🇮🇹Italy",
+    "Roman Province": 106
+  },
+  {
+    "City Name": "Vienna",
+    "Population": 1911191,
+    "Country": "🇦🇹Austria",
+    "Roman Province": 107
   }
 ]
