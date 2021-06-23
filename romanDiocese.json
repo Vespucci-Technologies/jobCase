@@ -27,7 +27,7 @@
   {
     "PK": 6,
     "Name": "Roman Italy",
-    "Fall (AD)": ""
+    "Fall (AD)": 0
   },
   {
     "PK": 7,
@@ -62,6 +62,6 @@
   {
     "PK": 13,
     "Name": "None",
-    "Fall (AD)": "nil"
+    "Fall (AD)": 0
   }
 ]
