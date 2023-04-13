@@ -7,7 +7,7 @@ jobs@vespuccianalytics.com
 
 Here are some details on the job:
 
-## iOS Software engineer @Vespucci
+## Software engineer @Vespucci
 
 ### About Vespucci
 
@@ -22,14 +22,6 @@ You will be one of the first in the team and will have great growth prospects.
 We are backed by some of the best investors in Europe.
 We want to help more people make more data driven decisions. That’s key in a world where too many decisions are taken only on gut feeling.
 They are some great challenges to solve ahead, we plan to process billions of data points from top tier apps in Europe and the US.
-
-### 🛠 Mission & Skills
-Design and maintain local computing systems.
-Propel a rich and interactive UI including an innovative use of animations.
-Maintain and develop local data systems (Realm, CoreData,...).
-You have experience in Swift, experience in C would be a plus.
-You are eager to learn about AI, Deep Learning and Stats.
-
 
 ### 🌍 Remote Working (CET +/-3h)
 
